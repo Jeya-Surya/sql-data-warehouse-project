@@ -151,10 +151,8 @@ The **Gold** layer forms the foundation for analytics and BI reports.
 
 **Core Tables:**
 
-* `DimDate`
 * `DimCustomer`
 * `DimProduct`
-* `DimLocation`
 * `FactSales`
 
 **Best Practices:**
